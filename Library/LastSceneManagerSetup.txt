@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Demo/Test_Coroutine/Test_Coroutine.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
